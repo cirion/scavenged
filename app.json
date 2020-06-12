@@ -1,0 +1,6 @@
+{
+  "name": "Endgame",
+  "description": "Final sample ktor content app with routes.",
+  "image": "heroku/java",
+  "addons": [  ]
+}
