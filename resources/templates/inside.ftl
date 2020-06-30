@@ -5,8 +5,51 @@
 </head>
 <body>
 <div class="content">
+<audio controls>
+  <source src="/static/turtlepower.mp3" type="audio/wave">
+Your browser does not support the audio element.
+</audio>
 <p>
 Cowabunga, dude! I’m so glad you could make it to my party!
+</p>
+<img  src="/static/images/all_and_april.gif" />
+<img src="/static/images/all_pouncing.gif" />
+<img src="/static/images/arcade_cowabunga.gif" />
+<img class="right" src="/static/images/arcade.gif" />
+<img src="/static/images/basketball.gif" />
+
+<img  src="/static/images/candy_cane.gif" />
+<img  src="/static/images/cleaning.gif" />
+<img  src="/static/images/cowabunga.gif" />
+<img  src="/static/images/dancing.gif" />
+<img  src="/static/images/waiting_for_pizza.gif" />
+<img  src="/static/images/disco.gif" />
+
+<img  src="/static/images/driving.gif" />
+<img  src="/static/images/happy.gif" />
+<img  src="/static/images/high_five_again.gif" />
+
+<img  src="/static/images/live_action_dance.gif" />
+<img  src="/static/images/live_action_pizza.gif" />
+<img  src="/static/images/liveaction.gif" />
+
+<img  src="/static/images/mikey_pizza_blink.gif" />
+<img  src="/static/images/morepizza.gif" />
+<img  src="/static/images/pizza_from_box.gif" />
+<img  src="/static/images/pizza.gif" />
+<img  src="/static/images/pizzatime.gif" />
+<img  src="/static/images/high_fives.gif" />
+
+<img  src="/static/images/santacruz.gif" />
+<img  src="/static/images/select_your_turtle.gif" />
+<img  src="/static/images/silly.gif" />
+<img  src="/static/images/skateboards.gif" />
+<img  src="/static/images/three_pizzas.gif" />
+
+<img  src="/static/images/thumbs_up.gif" />
+<img  src="/static/images/donatello_smiling.gif" />
+<img  src="/static/images/wave.gif" />
+<p>
 </p>
 <p>
 I’ve missed seeing everyone in person, and I’ve grown really fond of catching up with people on video.
