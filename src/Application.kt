@@ -39,7 +39,7 @@ fun Application.module(testing: Boolean = false) {
                     errors["turtle"] = "No way, dude!"
                 if (post["country"]?.toLowerCase() != "new zealand")
                     errors["country"] = "There's someplace better!"
-                if (post["box"]?.toLowerCase() != "chocolate")
+                if (post["box"]?.toIntOrNull() != 6)
                     errors["box"] = "Check again!"
                 if (errors.isEmpty()) {
                     call.respondRedirect("/funkytown", permanent = false)

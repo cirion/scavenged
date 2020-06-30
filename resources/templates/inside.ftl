@@ -16,8 +16,7 @@ I’d love to see you!
 </p>
 <p>
 I’m not sure if that room will get crowded. If it does, and you’d like to hang out with any other guests at the
-party, feel free to start separate calls in the <a href="https://discord.gg/PY4NC7e">discord server</a> or your
-platform of choice.
+party, feel free to start separate video calls in the discord server or your platform of choice.
 </p>
 <p>
 I know lots of you are feeling Zoom’d out, so no worries at all if you’d like to call it a day!
@@ -32,6 +31,7 @@ I hope that you are staying safe, staying healthy and staying sane!
 When the <a href="https://us02web.zoom.us/j/89152901593">Zoom room</a> prompts for a password, enter the last
 word in the second paragraph of my letter in your box. See you soon!
 </p>
+<img src="/static/images/king_brown_eyes.png" />
 </div>
 </body>
 </html>
