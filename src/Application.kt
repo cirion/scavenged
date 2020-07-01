@@ -21,6 +21,11 @@ fun Application.module(testing: Boolean = false) {
     install(FreeMarker) {
         templateLoader = ClassTemplateLoader(this::class.java.classLoader, "templates")
     }
+    install(StatusPages) {
+        status(HttpStatusCode.NotFound) {
+            call.respond(FreeMarkerContent("404.ftl", null))
+        }
+    }
 
     install(DefaultHeaders) {
         header("X-Robots-Tag", "noindex, nofollow, noarchive, nosnippet, noimageindex")

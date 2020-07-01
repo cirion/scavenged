@@ -18,8 +18,6 @@ Cowabunga, dude! I’m so glad you could make it to my party!
 <img class="right" src="/static/images/arcade.gif" />
 <img src="/static/images/basketball.gif" />
 
-<img  src="/static/images/candy_cane.gif" />
-<img  src="/static/images/cleaning.gif" />
 <img  src="/static/images/cowabunga.gif" />
 <img  src="/static/images/dancing.gif" />
 <img  src="/static/images/waiting_for_pizza.gif" />
@@ -40,13 +38,12 @@ Cowabunga, dude! I’m so glad you could make it to my party!
 <img  src="/static/images/pizzatime.gif" />
 <img  src="/static/images/high_fives.gif" />
 
-<img  src="/static/images/santacruz.gif" />
 <img  src="/static/images/select_your_turtle.gif" />
+<img  src="/static/images/thumbs_up.gif" />
 <img  src="/static/images/silly.gif" />
 <img  src="/static/images/skateboards.gif" />
 <img  src="/static/images/three_pizzas.gif" />
 
-<img  src="/static/images/thumbs_up.gif" />
 <img  src="/static/images/donatello_smiling.gif" />
 <img  src="/static/images/wave.gif" />
 <p>
