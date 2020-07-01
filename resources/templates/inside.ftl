@@ -1,6 +1,7 @@
 <html>
 <head>
     <#include "/common/head.ftl">
+    <#include "/common/turtle2.ftl">
     <title>🐢</title>
 </head>
 <body>
@@ -20,7 +21,6 @@ Cowabunga, dude! I’m so glad you could make it to my party!
 
 <img  src="/static/images/cowabunga.gif" />
 <img  src="/static/images/dancing.gif" />
-<img  src="/static/images/waiting_for_pizza.gif" />
 <img  src="/static/images/disco.gif" />
 
 <img  src="/static/images/driving.gif" />
