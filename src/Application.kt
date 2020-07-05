@@ -33,7 +33,7 @@ fun Application.module(testing: Boolean = false) {
     }
 
     routing {
-        route("/") {
+        route("/afterparty") {
             get {
                 call.respond(FreeMarkerContent("index.ftl", null))
             }
@@ -60,7 +60,7 @@ fun Application.module(testing: Boolean = false) {
             }
         }
 
-        route("/afterparty") {
+        route("/") {
             get {
                 call.respond(FreeMarkerContent("afterparty.ftl", null))
             }
