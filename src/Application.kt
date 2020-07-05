@@ -60,6 +60,12 @@ fun Application.module(testing: Boolean = false) {
             }
         }
 
+        route("/afterparty") {
+            get {
+                call.respond(FreeMarkerContent("afterparty.ftl", null))
+            }
+        }
+
         static {
             staticBasePackage = "/static"
 
